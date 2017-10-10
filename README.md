@@ -63,4 +63,4 @@
 
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
 
-* Mickael
+* Mickael.
